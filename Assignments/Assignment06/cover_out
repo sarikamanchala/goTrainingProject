@@ -1,0 +1,16 @@
+mode: set
+GO/Assignments/Assignment06/main.go:37.21,39.2 1 1
+GO/Assignments/Assignment06/main.go:40.24,42.2 1 0
+GO/Assignments/Assignment06/main.go:43.37,45.2 1 1
+GO/Assignments/Assignment06/main.go:46.37,48.2 1 1
+GO/Assignments/Assignment06/main.go:54.13,64.40 7 0
+GO/Assignments/Assignment06/main.go:68.2,71.40 4 0
+GO/Assignments/Assignment06/main.go:74.2,79.32 4 0
+GO/Assignments/Assignment06/main.go:82.2,109.26 24 0
+GO/Assignments/Assignment06/main.go:119.2,119.43 1 0
+GO/Assignments/Assignment06/main.go:64.40,66.3 1 0
+GO/Assignments/Assignment06/main.go:71.40,73.3 1 0
+GO/Assignments/Assignment06/main.go:79.32,81.3 1 0
+GO/Assignments/Assignment06/main.go:109.26,112.17 1 0
+GO/Assignments/Assignment06/main.go:112.17,114.4 1 0
+GO/Assignments/Assignment06/main.go:114.9,116.4 1 0
